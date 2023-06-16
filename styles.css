@@ -1,2 +1,9 @@
+.fluid {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
 
-/* Your CSS Code here. */
+.row {
+    display: flex;
+}
